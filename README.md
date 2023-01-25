@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection With Machine Learning
 In this repo, the common cause and trace of credit card fraud are analyzed by  distinguishing transaction scenarios and predicted by following the state-of-the-art AI approaches. 
 
+## File Definitions
+
 ## Setting Up The Development Environment
 * Create a Python virtual environment
 ```
@@ -85,4 +87,13 @@ $ pytest
 
 ## Reference 
 
+### Books
+
 - [Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
+
+### Blogs
+- [Introduction to Probability with Python](https://ethanweed.github.io/pythonbook/04.02-probability.html)
+### Important Topics
+- Uniform Distribution
+- Normal Distribution
+- Poisson Distribution
