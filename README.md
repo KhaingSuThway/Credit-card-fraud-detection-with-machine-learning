@@ -61,32 +61,17 @@ class MyClass:
             foo (float): _description_
             baz (list): _description_
         """
-        passclass MyClass:
-
-    def __init__(self, param1: str, param2: int):
-        
         pass
+
 ```
 * Bad
 ```python
 class MyClass:
 
-    def __init__(self, param1: str, param2: int):
-        """_summary_
-
-        Args:
-            param1 (str): _description_
-            param2 (int): _description_
-        """
+    def __init__(self, param1, param2):
         pass
 
-    def func(self, foo: float, baz: list)->None:
-        """_summary_
-
-        Args:
-            foo (float): _description_
-            baz (list): _description_
-        """
+    def func(self, foo, baz):
         pass
 ```
 
