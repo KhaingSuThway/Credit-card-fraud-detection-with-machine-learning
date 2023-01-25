@@ -82,3 +82,7 @@ $ pytest
 ## Authors
 - Khaing Su Thway
 - Aung Khant Maw
+
+## Reference 
+
+- [Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
