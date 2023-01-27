@@ -88,6 +88,11 @@ class MyClass:
 ```
 $ pytest
 ```
+
+## How To Download Dataset
+```
+$ python scripts/download_dataset.py
+```
 ## Authors
 ---
 - Khaing Su Thway
