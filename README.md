@@ -115,3 +115,7 @@ $ python scripts/download_dataset.py
 - [How to download Kaggle datasets into Jupyter notebook](https://www.geeksforgeeks.org/how-to-download-kaggle-datasets-into-jupyter-notebook/)
 - [SQL Summer Camp: Getting started with SQL | Kaggle](https://www.youtube.com/watch?v=jYQoQfFzJRw&t=2139s)
 - [Kaggle: Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+
+## Further Improvements
+- [ ] Use SQL and BigQuery instead of using KaggleAPI to access the dataset.
+- [ ] Add Explanatory Data Analysis (EDA)
