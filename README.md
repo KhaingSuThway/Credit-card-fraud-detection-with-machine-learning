@@ -4,8 +4,11 @@
 In this repo, the common cause and trace of credit card fraud are analyzed by  distinguishing transaction scenarios and predicted by following the state-of-the-art AI approaches. 
 
 ## File Definitions
+---
 
 ## Setting Up The Development Environment
+---
+
 * Create a Python virtual environment
 ```
 $ python -m venv .venv
@@ -16,17 +19,19 @@ $ .\.venv\Scripts\activate
 ```
 * Install packages required for production code
 ```
-pip install -r requirements.txt
+(.venv) $ pip install -r requirements.txt
 ```
 * Install packages required for development code (optional)
 ```
-pip install -r requirements_dev.txt
+(.venv) $ pip install -r requirements_dev.txt
 ```
 
 ## Coding Standards
+---
 All the codes written must follow PEP 8 - Stype Guide for Python Code - https://peps.python.org/pep-0008/
 
 ### Type Hinting
+---
 1. Every functions must have type hinting. For example,
 * Good
 ```python
@@ -80,23 +85,28 @@ class MyClass:
 ```
 
 ## How To Run Tests
+---
 ```
 $ pytest
 ```
 ## Authors
+---
 - Khaing Su Thway
 - Aung Khant Maw
 
-## Reference 
-
-### Books
+## References
+---
+### Domain Knowledge
 
 - [Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
 
-### Blogs
+### Probability & Statistics
 - [Introduction to Probability with Python](https://ethanweed.github.io/pythonbook/04.02-probability.html)
 - [Poisson Distributions | Definition, Formula & Examples](https://www.scribbr.com/statistics/poisson-distribution/)
-### Important Topics
-- Uniform Distribution
-- Normal Distribution
-- Poisson Distribution
+
+### Databases
+- [What is BigQuery](https://www.youtube.com/watch?v=d3MDxC_iuaw)
+- [How to Access and Query Your Google BigQuery Data Using Python and R](https://www.rudderstack.com/guides/how-to-access-and-query-your-bigquery-data-using-python-and-r/)
+- [How to download Kaggle datasets into Jupyter notebook](https://www.geeksforgeeks.org/how-to-download-kaggle-datasets-into-jupyter-notebook/)
+- [SQL Summer Camp: Getting started with SQL | Kaggle](https://www.youtube.com/watch?v=jYQoQfFzJRw&t=2139s)
+- [Kaggle: Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
