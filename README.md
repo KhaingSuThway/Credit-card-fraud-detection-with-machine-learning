@@ -8,7 +8,6 @@ In this repo, the common cause and trace of credit card fraud are analyzed by  d
 
 ## Setting Up The Development Environment
 ---
-
 * Create a Python virtual environment
 ```
 $ python -m venv .venv
