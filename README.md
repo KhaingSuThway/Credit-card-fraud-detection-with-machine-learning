@@ -93,6 +93,7 @@ $ pytest
 ```
 $ python scripts/download_dataset.py
 ```
+**WARNING**: Make sure you have Kaggle's API credentials in C:\Users\USER\\.kaggle folder. For further details on API authentication, please refer to [here](https://www.kaggle.com/docs/api).
 ## Authors
 ---
 - Khaing Su Thway
