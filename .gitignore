@@ -6,3 +6,5 @@ venv
 notebooks/.ipynb_checkpoints
 data/.ipynb_checkpoints
 tests/__pycache__
+kaggle.json
+.data
