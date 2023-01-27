@@ -4,3 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 google-cloud-bigquery
+kaggle
