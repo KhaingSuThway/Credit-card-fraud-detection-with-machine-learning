@@ -95,6 +95,7 @@ $ pytest
 
 ### Blogs
 - [Introduction to Probability with Python](https://ethanweed.github.io/pythonbook/04.02-probability.html)
+- [Poisson Distributions | Definition, Formula & Examples](https://www.scribbr.com/statistics/poisson-distribution/)
 ### Important Topics
 - Uniform Distribution
 - Normal Distribution
